@@ -1,3 +1,4 @@
+print("")
 
 voornaam = input("Wat is je naam? ")
 
